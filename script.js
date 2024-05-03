@@ -1,11 +1,11 @@
 firebase.initializeApp({
     // Import the functions you need from the SDKs you need
-    apiKey: "AIzaSyDieewnNcwvWlAAe0O5mlRlCV30P5LMc_E",
-    authDomain: "ms-eve-apps.firebaseapp.com",
-    projectId: "ms-eve-apps",
-    storageBucket: "ms-eve-apps.appspot.com",
-    messagingSenderId: "847843896670",
-    appId: "1:847843896670:web:a685ab9231f012a0bd73cf",
+    apiKey: "YOUR API",
+    authDomain: "YOUR_AUTH_DOMAIN",
+    projectId: "YOUR PROJECT ID",
+    storageBucket: "...........com",
+    messagingSenderId: "00000000000",
+    appId: "1............",
 });
 
 const db = firebase.firestore();
